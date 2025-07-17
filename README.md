@@ -16,7 +16,7 @@ Welcome to my curated portfolio of WordPress-based projects built for clients ac
 |--------|-------------|-----------|-----------|
 | **GetRadent** | A talent marketplace web app prototype for hiring temporary and freelance talent in Nigeria. | [getradent.com](https://getradent.com) | [View Repo](https://github.com/BabafemiAyinde/getradent-wp-marketplace) |
 | **Trigus Solutions** | Corporate site for an IT consulting firm offering enterprise infrastructure solutions. | [trigus-ng.com](https://trigus-ng.com) | [View Repo](https://github.com/BabafemiAyinde/trigus-corporate) |
-| **SPDC Client Portal** | Internal portal for Shell Nigeria’s vendor engagement and project communication. | 🔒 Internal use only | [View Repo](https://github.com/BabafemiAyinde/terra-spdc-client-portal) |
+| **SPDC Client Portal** | A secured workflow automation, document control and communications intranet portal developed for SPDC under Terra Energy Services. | 🔒 Internal use only | [View Repo](https://github.com/BabafemiAyinde/terra-spdc-client-portal) |
 | **Terra Energy Services** | Company site for an oil & gas engineering firm, with dynamic service sections and project gallery. | [terranig.com](https://terranig.com) | [View Repo](https://github.com/BabafemiAyinde/corpo-terranig-site) |
 | **MD School** | School website with portal integration for academic and administrative use. | [md-school.net](https://md-school.net) | [View Repo](https://github.com/BabafemiAyinde/md-school-website) |
 
